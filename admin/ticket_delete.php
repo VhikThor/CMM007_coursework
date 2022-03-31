@@ -59,7 +59,7 @@ if (isset($_POST["id"]) && !empty($_POST["id"])) {
 <body>
     <!--    header section  -->
     <section class="header">
-        <a href="#.php" class="logo">Ayaya</a>
+        <a href="#.php" class="logo">2201692</a>
         <nav class="navbar">
             <a href="admin_home.php">Dashboard</a>
             <a class="active" href="ticket.php">Ticket</a>
