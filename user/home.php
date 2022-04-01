@@ -52,7 +52,7 @@
     <!-- home about section starts -->
     <section class="home-about">
         <div class="image">
-            <img src="../images/c1.jpg" alt="">
+            <img src="../images/c4.jpg" alt="">
         </div>
 
         <div class="content">
