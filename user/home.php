@@ -78,7 +78,7 @@
                     <img src="../images/bg1.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>adventure & tour</h3>
+                    <h3>Tour</h3>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus omnis repellat
                         necessitatibus consequatur, officiis eos pariatur cum corrupti suscipit expedita, eligendi porro.
                     </p>
